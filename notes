@@ -12,3 +12,7 @@ RStudio Set Up
   which git
   
   Told me the alternate version of the exec location (i had multiple ones saved / installed apparently)
+
+Success! After setting up Git to be recognized by RStudio, I was able to connect it to this repo.
+Yay for version control.
+
