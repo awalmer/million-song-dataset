@@ -12,3 +12,5 @@ Databases related to music:
 https://musicbrainz.org/doc/MusicBrainz_Database/Download
 https://components.one/datasets/billboard-200-with-segments
 
+Another link ~ it started with me looking for free data sources on this page:
+https://www.columnfivemedia.com/100-best-free-data-sources-infographic
