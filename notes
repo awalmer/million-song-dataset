@@ -1,0 +1,14 @@
+Notes along the way:
+
+RStudio Set Up
+  I have been using RStudio on my work server (web version of RStudio) for a couple years, and had set up Git version control on that right away, 
+  but needed a refresher to do that locally on RStudio desktop on my personal machine. 
+  Finally figured out why RStudio wasn't recognizing Git on my computer even though I had installed it. 
+  
+  This helped:
+  https://happygitwithr.com/rstudio-see-git.html
+  Check in the R shell (terminal) whether git exists, then where it is
+  git
+  which git
+  
+  Told me the alternate version of the exec location (i had multiple ones saved / installed apparently)
